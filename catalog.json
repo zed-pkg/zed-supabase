@@ -1,0 +1,21 @@
+{
+  "$schema": "./schemas/catalog.schema.json",
+  "version": 1,
+  "github": {
+    "organization": "zed-pkg",
+    "repository": "zed-pkg/zed-supabase",
+    "defaultBranch": "main"
+  },
+  "supabaseOrganization": {
+    "id": "kjokwhqlbfoxbdvnekon",
+    "name": "zed-pkg"
+  },
+  "canonicalProjectRef": "zxjvldcyqobiupeiwjhx",
+  "projects": [
+    {
+      "ref": "zxjvldcyqobiupeiwjhx",
+      "target": "projects/zxjvldcyqobiupeiwjhx/target.json"
+    }
+  ]
+}
+
